@@ -1,2 +1,1 @@
-print("yes")
-print("non")
+print("bienvenue dans le repository")
